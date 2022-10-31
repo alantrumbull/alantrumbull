@@ -17,11 +17,4 @@ Only commoners who become a burden on the family and try to be myself inspire th
     <br>
     <p>Support me on Trakteer ❤️</p>
     <img src="https://github.com/alantrumbull/alantrumbull/blob/main/others/id.jpg?raw=true" alt="Support me on Trakteer" width="100px" height="100px"/>
-    <br>
-    <br>
-    <details>
-        <summary><b>Only me</b></summary>
-        <br>
-        <img src="https://github.com/alantrumbull/alantrumbull/blob/main/others/me.jpg?raw=true" alt="Only me" width="100px" height="380px"/>
-    </details>
 </details>
