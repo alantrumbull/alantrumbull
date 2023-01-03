@@ -1,20 +1,20 @@
-## Hi welcome back 👋
-Only commoners who become a burden on the family and try to be myself inspire the code becomes beautiful, likes challenges and learn from mistakes.
+## Selamat datang kak 👋
+Seseorang yang suka membuat baris-baris kode dan menginspirasikannya menjadi mantra indah.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=alantrumbull&color=green&style=flat)](https://github.com/alantrumbull)
+[![Jumlah Pengunjung](https://komarev.com/ghpvc/?username=ndychll&color=green&style=flat)](https://github.com/ndychll)
 
-- 🏫 Currently studying at **Smkn 1 Kragilan**
-- ⚙️ Language and Tool: `.c`, `.py`, `.js`, `.sh`, `.git`, `.vim`, `.termux`
-- 🌍 Be more active using **Instagram**
-- 💅 Planning: @trmbl, [jadwal-sholat](https://github.com/alantrumbull/jadwal-sholat), [gabutan-saya](https://github.com/alantrumbull/gabutan-saya), [local-webserver](https://github.com/alantrumbull/local-webserver) etc...
-- 🌱 Learning all about **Open Source**
-- 💬 Don't ask me about anything **Because I'm not an expert**
-- 📫 Email contact: [nedq016@gmail.com](mailto:nedq016@gmail.com)
-- ⚡️Fun fact: Camping at Night
+- 🏫 Sedang belajar di **#DiRumahAja**
+- ⚙️ Bahasa dan Alat `.html`, `.css`, `.js`, `.git`, `.vim`, `.termux`
+- 🌍 Lebih aktif menggunakan **IG/Wa**
+- 💅 Repositori @ndychll, [jadwal-sholat](https://github.com/ndychll/jadwal-sholat), [gabutan-saya](https://github.com/ndychll/gabutan-saya), [micin-webserver](https://github.com/ndychll/micin-webserver) dll...
+- 🌱 Mempelajari semua tentang **Open Source**
+- 💬 Jangan tanya tentang apa pun **Karena saya bukan ahlinya**
+- 📫 Kontak email: [nedq016@gmail.com](mailto:nedq016@gmail.com)
+- ⚡️ Fakta menyenangkan: Penggemar berat Hulk
 
 <details>
-    <summary>View more...</summary>
+    <summary>Selengkapnya...</summary>
     <br>
-    <p>Support me on Trakteer ❤️</p>
-    <img src="https://github.com/alantrumbull/alantrumbull/blob/main/others/id.jpg?raw=true" alt="Support me on Trakteer" width="100px" height="100px"/>
+    <p>Dukung Saya di Trakteer ❤️</p>
+    <img src="https://github.com/ndychll/ndychll/blob/main/others/id.jpg?raw=true" alt="Dukungan Saya di Trakteer" width="100px" height="100px"/>
 </details>
